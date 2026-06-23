@@ -10,11 +10,22 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://img.lichphatsong.site/logo/vinhlong3hd.jpg", Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://img.lichphatsong.site/logo/vinhlong4hd.png", Vĩnh Long 4
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://img.lichphatsong.site/logo/vinhlong5hd.png", Vĩnh Long 5
-https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+# Kênh VTV
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv1hd.jpg", VTV1
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv2hd.jpg", VTV2
+https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv3hd.jpg", VTV3
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv6hd.jpg", VTV6
+https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vietnamtoday.jpg", Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 
 # Kênh HTV
@@ -29,23 +40,6 @@ https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.site/logo/htv9hd.jpg", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-
-
-# Kênh VTV
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vietnamtoday.jpg", Vietnam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv1hd.jpg", VTV1
-https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv2hd.jpg", VTV2
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv3hd.jpg", VTV3
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv6hd.jpg", VTV6
-https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 # Kênh thiết yếu
@@ -82,21 +76,9 @@ https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 
 
 # Kênh địa phương
-#EXTINF:-1 tvg-id="dongthap1" group-title="Kênh địa phương" tvg-logo="https://img.lichphatsong.site/logo/dongthap1.jpg", Đồng Tháp 1
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="cantho1" group-title="Kênh địa phương" tvg-logo="https://img.lichphatsong.site/logo/cantho1.jpg", Cần Thơ 1
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0 tvg-id="hanoi1" group-title="Kênh địa phương" tvg-logo="https://img.lichphatsong.site/logo/hanoi1.png", Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="danang1" group-title="Kênh địa phương" tvg-logo="https://img.lichphatsong.site/logo/danang1.png", Đà Nẵng 1
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="quangninh1" group-title="Kênh địa phương" tvg-logo="https://img.lichphatsong.site/logo/quangninh1.png", Quảng Ninh 1
-https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
-
-
-
 
