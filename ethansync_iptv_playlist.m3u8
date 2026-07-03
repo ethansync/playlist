@@ -14,6 +14,7 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 # Kênh VTV
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv1hd.jpg", VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv2hd.jpg", VTV2
 https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
